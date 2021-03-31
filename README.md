@@ -10,3 +10,6 @@ Visit [my blog](http://www.ruanyifeng.com/blog/2019/12/github_actions.html) (in 
 
 
 Github Action Demo
+
+注意：
+secrets.MAIL_PASSWORD 的值需要填入 stmp 授权码。不是邮箱的密码。
